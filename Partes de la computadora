@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Partes de la computadora </title>
+    </head>
+    <body>
+            <style>
+    li{
+        font-size:28px;
+        font-weight:bold;
+    }
+    td{background-color:skyblue;}
+    h1{ font-family: fantasy;}
+    h2{ font-style: italic; 
+        
+        font-size:50px;
+    }
+    body{ background-color:black ;}
+    body{color:rgb(252, 252, 252);
+        font-size:20px;
+    }
+    
+        h2 { 
+            color:rgb(23, 187, 209);
+        }
+    </style>
+        <h1>Partes de la computadora</h1>
+
+        <h3>Contenido</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Primera parte  </th>
+                    <th>Segunda parte</th>
+                    <th>Tercera parte</th>
+                    <th>Cuarta parte</th>
+                    <th>Quinta parte</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="#first">numero 1</a></td>
+                    <td><a href="#second">numero 2</a></td>
+                    <td><a href="#third">numero 3 </a></td>
+                    <td><a href="#four">numero 4</a></td>
+                    <td><a href="#five">numero 5</a></td>
+                </tr>
+            </tbody>
+                
+            
+        </table> <br>
+       A continuacion se mostraran las principales partes de una computadora 
+        <h2 id="first">Teclado</h2>
+        <h4> Este sirve para...</h4>
+     Poder escribir y enumerar letras y numeros en un dispoisitivo o computadora, este puede ser alambrico o inalambrico
+        <p>Pero que es en realidad.</p>
+       En informatica, un teclado es un dispositivo o periferico de entrada, en parte inspirado en el teclado<br>
+ de las maquinas de escribir, que utiliza un sistema de botones o teclas, para que actuen como palancas<br>
+ mecanicas o interruptores electronicos que envían toda la informacion a la computadora o al telefono movil.
+
+<img src="teclado.jpeg"  border="10px" height="250px" width="400px">
+        <h2 id="second">Monitor</h2>      
+        <p>Sigamos adelante</p>
+        <p>Este es :
+    <p>El monitor de computadora o monitor de ordenador o pantalla es el principal dispositivo de salida, que<br>
+ muestra datos o informacion al usuario. Tambien puede considerarse un periferico de entrada/salida si el<br>
+ monitor tiene pantalla tactil o multitactil.</p>
+<img src="monitor.jpg"  border="10px" height="250px" width="400px"/>
+    <h2 id="third">Raton</h2>
+    <p>El raton o mouse es un dispositivo apuntador utilizado para facilitar el manejo de un entorno grafico en<br>
+ una computadora. Generalmente esta fabricado en plastico, y se utiliza con una de las manos.</p>
+<img src="mouse.jpg"  border="10px" height="250px" width="400px"/>
+    <h2 id="four">CPU</h2>
+    <p>La unidad central de procesamiento o unidad de procesamiento central, es el hardware dentro de un<br>
+ ordenador u otros dispositivos programables, que interpreta las instrucciones de un programa informatico mediante<br>
+ la realizacion de las operaciones basicas aritméticas, logicas y de entrada/salida del sistema..</p>
+<img src="cpu.jpg"  border="10px" height="250px" width="400px"/>
+<h2 id="five">Microprocesador </h2>
+    <p>
+    El microprocesador es el circuito integrado central más complejo de un sistema informático; a modo de ilustración,<br>
+ se le suele llamar por analogía el «cerebro» de un ordenador.
+    </p>
+<img src="micro.jpg"  border="10px" height="250px" width="400px"/>
+    </body>
+</html>
